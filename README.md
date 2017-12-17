@@ -13,5 +13,3 @@ Java 8
 ## Authors
 
 * **Renato Serra** - *Initial work* - [PurpleBooth](https://github.com/serrarenato)
-
-
