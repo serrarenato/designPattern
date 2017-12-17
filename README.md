@@ -12,4 +12,4 @@ Java 8
 
 ## Authors
 
-* **Renato Serra** - *Initial work* - [PurpleBooth](https://github.com/serrarenato)
+* **Renato Serra** - [Github](https://github.com/serrarenato)
